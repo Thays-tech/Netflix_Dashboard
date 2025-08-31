@@ -28,18 +28,18 @@ O objetivo é demonstrar como a análise de dados pode gerar **insights comporta
 netflix-dashboard/
 │
 ├── dashboard/
-│   └── netflix.pbix     # Arquivo principal do Power BI
+│   └── netflix.pbix     
 │
 ├── data/
-│   ├── netflix/                   # Histórico de visualizações Netflix
+│   ├── netflix/                   
 │   │   └── NetflixViewingHistory.csv
 │   │
-│   ├── clima/                     # Temperatura média (INMET - Curitiba)
+│   ├── clima/                     
 │   │   ├── INMET_S_PR_A807_CURITIBA_2020.csv
 │   │   ├── INMET_S_PR_A807_CURITIBA_2021.csv
 │   │   └── INMET_S_PR_A807_CURITIBA_2022.csv
 │   │
-│   ├── feriados/                  # Dataset de feriados (GitHub público)
+│   ├── feriados/                  )
 │   │   ├── 2020.csv
 │   │   ├── 2021.csv
 │   │   └── 2022.csv
