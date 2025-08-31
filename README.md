@@ -39,7 +39,7 @@ netflix-dashboard/
 │   │   ├── INMET_S_PR_A807_CURITIBA_2021.csv
 │   │   └── INMET_S_PR_A807_CURITIBA_2022.csv
 │   │
-│   ├── feriados/                  )
+│   ├── feriados/                  
 │   │   ├── 2020.csv
 │   │   ├── 2021.csv
 │   │   └── 2022.csv
